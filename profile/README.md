@@ -46,14 +46,14 @@ contact if you require commercial support. Please submit a PR if you wish to
 have your name listed here. Having a name listed is not necessarily an
 endorsement.
 
-- [SUE - Cloud Native Solutions](mailto:sales@sue.eu) - Support & Services Company
 - [Finn Ball](mailto:finn.ball@codificasolutions.com) - Freelance Consultant
 - [Fredrik Medley](mailto:fredrik@meroton.com) - Consultant
+- [SUE - Cloud Native Solutions](mailto:sales@sue.eu) - Support & Services Company
 
 ## Commercial Hosting and Professional Services
 
-- [SUE - Cloud Native Solutions](https://sue.eu/services/) - Support & Services Company
 - [Meroton](https://www.meroton.com/services/) - Cloud Hosted Buildbarn and Services
+- [SUE - Cloud Native Solutions](https://sue.eu/services/) - Support & Services Company
 
 Buildbarn does not encourage commercial forks and is willing to engage with
 organisations to merge changes upstream in order to be maintained by the
