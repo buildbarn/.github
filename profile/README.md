@@ -49,7 +49,7 @@ endorsement.
 - [Finn Ball](mailto:finn.ball@codificasolutions.com) - Freelance Consultant
 - [Fredrik Medley](mailto:fredrik@meroton.com) - Consultant
 - [SUE - Cloud Native Solutions](mailto:sales@sue.eu) - Support & Services Company
-- [Tweag by Modus Create](https://www.tweag.io/) - Consultant Services
+- [Tweag by Modus Create](https://www.tweag.io/) - Consulting Services
 
 ## Commercial Hosting and Professional Services
 
