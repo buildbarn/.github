@@ -59,3 +59,12 @@ endorsement.
 Buildbarn does not encourage commercial forks and is willing to engage with
 organisations to merge changes upstream in order to be maintained by the
 community.
+
+# Community events
+
+On 2025-03-20, Snowflake hosted our very first Buildbarn meetup. Below
+is a list of talks that were given.
+
+- Buildbarn Portal, presented by Trey Ivy: [slides](https://docs.google.com/presentation/d/1RT47sXQBfJ4Su8pSlavkA06G3Ifju8QUG92-ITj1U54/edit?usp=sharing)
+- Bonanza, presented by Ed Schouten: [slides](https://docs.google.com/presentation/d/1uh6CxvvziQunw55e_bs1Juz3jfaiE-QJVs2DCfeMeTw/edit?usp=sharing)
+- Buildbarn at Snowflake, presented by Zhimin Xiang and Richard Woodbury: slides TBD
