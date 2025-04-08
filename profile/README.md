@@ -60,7 +60,7 @@ Buildbarn does not encourage commercial forks and is willing to engage with
 organisations to merge changes upstream in order to be maintained by the
 community.
 
-# Community events
+# Buildbarn community events
 
 On 2025-03-20, Snowflake hosted our very first Buildbarn meetup. Below
 is a list of talks that were given.
@@ -68,3 +68,14 @@ is a list of talks that were given.
 - Buildbarn Portal, presented by Trey Ivy: [slides](https://docs.google.com/presentation/d/1RT47sXQBfJ4Su8pSlavkA06G3Ifju8QUG92-ITj1U54/edit?usp=sharing)
 - Bonanza, presented by Ed Schouten: [slides](https://docs.google.com/presentation/d/1uh6CxvvziQunw55e_bs1Juz3jfaiE-QJVs2DCfeMeTw/edit?usp=sharing)
 - Buildbarn at Snowflake, presented by Zhimin Xiang and Richard Woodbury: slides TBD
+
+# Presentations at other venues
+
+The main author of Buildbarn has also given some talks about assorted
+topics in the past, including:
+
+- 2021-06-24 Build Meetup: [Automatic worker size selection](https://www.youtube.com/watch?v=3eKVBwlAHsk)
+- 2023-05-11 NLUUG conference: [Overview and development history](https://www.youtube.com/watch?v=2_AFPEP4Ewg)
+
+The slides of all of these talks have been combined into a
+[a single master slide deck](https://docs.google.com/presentation/d/1QhEmrpujMyU_HMdLbTfYN-qzihFo6ZYEjY7k94EBhiw/edit?usp=sharing).
