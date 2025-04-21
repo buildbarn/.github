@@ -53,6 +53,7 @@ endorsement.
 
 ## Commercial Hosting and Professional Services
 
+- [Aspect Build](https://www.aspect.build/managed-buildbarn) - Self-hosted, Managed Buildbarn
 - [Meroton](https://www.meroton.com/services/) - Cloud Hosted Buildbarn and Services
 - [SUE - Cloud Native Solutions](https://sue.eu/services/) - Support & Services Company
 
