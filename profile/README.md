@@ -46,7 +46,6 @@ contact if you require commercial support. Please submit a PR if you wish to
 have your name listed here. Having a name listed is not necessarily an
 endorsement.
 
-- [Finn Ball](mailto:finn.ball@codificasolutions.com) - Freelance Consultant
 - [Fredrik Medley](mailto:fredrik@meroton.com) - Consultant
 - [SUE - Cloud Native Solutions](mailto:sales@sue.eu) - Support & Services Company
 - [Tweag by Modus Create](https://www.tweag.io/) - Consulting Services
