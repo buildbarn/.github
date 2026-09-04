@@ -37,6 +37,36 @@ There is a [#buildbarn channel on buildteamworld.slack.com](https://join.slack.c
 that you can join to get in touch with other people who use and hack on
 Buildbarn.
 
+# Buildbarn community events
+
+## Upcoming events
+
+On October 13th, 2026, Datadog will be organizing a Buildbarn Meetup at
+their offices in Amsterdam. Please [join us](https://luma.com/x08mgk41)
+to attend interesting tech talks, and meet other enthusiastic Buildbarn
+users!
+
+## Past events
+
+On 2025-03-20, Snowflake hosted our very first Buildbarn meetup. Below
+is a list of talks that were given.
+
+- Buildbarn Portal, presented by Trey Ivy: [slides](https://docs.google.com/presentation/d/1RT47sXQBfJ4Su8pSlavkA06G3Ifju8QUG92-ITj1U54/edit?usp=sharing)
+- Panel discussion with Alex Eagle, Benjamin Ingberg, Ed Schouten, Richard Woodbury, and Scott Minor: [video](https://www.youtube.com/watch?v=fl71fFb4m00)
+- Bonanza, presented by Ed Schouten: [video](https://www.youtube.com/watch?v=OuFK-Dh9PUM) [slides](https://docs.google.com/presentation/d/1uh6CxvvziQunw55e_bs1Juz3jfaiE-QJVs2DCfeMeTw/edit?usp=sharing)
+- Buildbarn at Snowflake, presented by Zhimin Xiang and Richard Woodbury: [video](https://www.youtube.com/watch?v=r1abzbs3m1s) [slides](https://docs.google.com/presentation/d/1BVcy_C1Rp-lsuoIz7stCiSYrPLpWllUIrmKfMR2G8hQ/edit?usp=sharing)
+
+# Presentations at other venues
+
+The main author of Buildbarn has also given some talks about assorted
+topics in the past, including:
+
+- 2021-06-24 Build Meetup: [Automatic worker size selection](https://www.youtube.com/watch?v=3eKVBwlAHsk)
+- 2023-05-11 NLUUG conference: [Overview and development history](https://www.youtube.com/watch?v=2_AFPEP4Ewg)
+
+The slides of all of these talks have been combined into a
+[a single master slide deck](https://docs.google.com/presentation/d/1QhEmrpujMyU_HMdLbTfYN-qzihFo6ZYEjY7k94EBhiw/edit?usp=sharing).
+
 # Commercial Support
 
 Buildbarn has an active and enthusiastic community. Though we try to help and
@@ -59,24 +89,3 @@ endorsement.
 Buildbarn does not encourage commercial forks and is willing to engage with
 organisations to merge changes upstream in order to be maintained by the
 community.
-
-# Buildbarn community events
-
-On 2025-03-20, Snowflake hosted our very first Buildbarn meetup. Below
-is a list of talks that were given.
-
-- Buildbarn Portal, presented by Trey Ivy: [slides](https://docs.google.com/presentation/d/1RT47sXQBfJ4Su8pSlavkA06G3Ifju8QUG92-ITj1U54/edit?usp=sharing)
-- Panel discussion with Alex Eagle, Benjamin Ingberg, Ed Schouten, Richard Woodbury, and Scott Minor: [video](https://www.youtube.com/watch?v=fl71fFb4m00)
-- Bonanza, presented by Ed Schouten: [video](https://www.youtube.com/watch?v=OuFK-Dh9PUM) [slides](https://docs.google.com/presentation/d/1uh6CxvvziQunw55e_bs1Juz3jfaiE-QJVs2DCfeMeTw/edit?usp=sharing)
-- Buildbarn at Snowflake, presented by Zhimin Xiang and Richard Woodbury: [video](https://www.youtube.com/watch?v=r1abzbs3m1s) [slides](https://docs.google.com/presentation/d/1BVcy_C1Rp-lsuoIz7stCiSYrPLpWllUIrmKfMR2G8hQ/edit?usp=sharing)
-
-# Presentations at other venues
-
-The main author of Buildbarn has also given some talks about assorted
-topics in the past, including:
-
-- 2021-06-24 Build Meetup: [Automatic worker size selection](https://www.youtube.com/watch?v=3eKVBwlAHsk)
-- 2023-05-11 NLUUG conference: [Overview and development history](https://www.youtube.com/watch?v=2_AFPEP4Ewg)
-
-The slides of all of these talks have been combined into a
-[a single master slide deck](https://docs.google.com/presentation/d/1QhEmrpujMyU_HMdLbTfYN-qzihFo6ZYEjY7k94EBhiw/edit?usp=sharing).
