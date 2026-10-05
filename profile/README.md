@@ -65,7 +65,7 @@ topics in the past, including:
 - 2023-05-11 NLUUG conference: [Overview and development history](https://www.youtube.com/watch?v=2_AFPEP4Ewg)
 
 The slides of all of these talks have been combined into a
-[a single master slide deck](https://docs.google.com/presentation/d/1QhEmrpujMyU_HMdLbTfYN-qzihFo6ZYEjY7k94EBhiw/edit?usp=sharing).
+[a single master slide deck](https://github.com/buildbarn/.github/blob/main/buildbarn-master.pdf).
 
 # Commercial Support
 
