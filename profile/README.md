@@ -49,7 +49,7 @@ talks that were given.
 - "Bonanza", presented by Ed Schouten: [video](https://www.youtube.com/watch?v=OuFK-Dh9PUM) [slides](https://docs.google.com/presentation/d/1uh6CxvvziQunw55e_bs1Juz3jfaiE-QJVs2DCfeMeTw/edit?usp=sharing)
 - "Buildbarn at Snowflake", presented by Zhimin Xiang and Richard Woodbury: [video](https://www.youtube.com/watch?v=r1abzbs3m1s) [slides](https://docs.google.com/presentation/d/1BVcy_C1Rp-lsuoIz7stCiSYrPLpWllUIrmKfMR2G8hQ/edit?usp=sharing)
 
-## 2026-10-17: Buildbarn meetup at Datadog in Amsterdam
+## 2026-10-13: Buildbarn meetup at Datadog in Amsterdam
 
 Datadog hosted the second Buildbarn meetup. Below is a list of talks
 that were given. We are still in the process of gathering slides and
