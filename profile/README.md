@@ -39,22 +39,30 @@ Buildbarn.
 
 # Buildbarn community events
 
-## Upcoming events
+## 2025-03-20: Buildbarn meetup at Snowflake in San Mateo
 
-On October 13th, 2026, Datadog will be organizing a Buildbarn Meetup at
-their offices in Amsterdam. Please [join us](https://luma.com/x08mgk41)
-to attend interesting tech talks, and meet other enthusiastic Buildbarn
-users!
+Snowflake hosted our very first Buildbarn meetup. Below is a list of
+talks that were given.
 
-## Past events
-
-On 2025-03-20, Snowflake hosted our very first Buildbarn meetup. Below
-is a list of talks that were given.
-
-- Buildbarn Portal, presented by Trey Ivy: [slides](https://docs.google.com/presentation/d/1RT47sXQBfJ4Su8pSlavkA06G3Ifju8QUG92-ITj1U54/edit?usp=sharing)
+- "Buildbarn Portal", presented by Trey Ivy: [slides](https://docs.google.com/presentation/d/1RT47sXQBfJ4Su8pSlavkA06G3Ifju8QUG92-ITj1U54/edit?usp=sharing)
 - Panel discussion with Alex Eagle, Benjamin Ingberg, Ed Schouten, Richard Woodbury, and Scott Minor: [video](https://www.youtube.com/watch?v=fl71fFb4m00)
-- Bonanza, presented by Ed Schouten: [video](https://www.youtube.com/watch?v=OuFK-Dh9PUM) [slides](https://docs.google.com/presentation/d/1uh6CxvvziQunw55e_bs1Juz3jfaiE-QJVs2DCfeMeTw/edit?usp=sharing)
-- Buildbarn at Snowflake, presented by Zhimin Xiang and Richard Woodbury: [video](https://www.youtube.com/watch?v=r1abzbs3m1s) [slides](https://docs.google.com/presentation/d/1BVcy_C1Rp-lsuoIz7stCiSYrPLpWllUIrmKfMR2G8hQ/edit?usp=sharing)
+- "Bonanza", presented by Ed Schouten: [video](https://www.youtube.com/watch?v=OuFK-Dh9PUM) [slides](https://docs.google.com/presentation/d/1uh6CxvvziQunw55e_bs1Juz3jfaiE-QJVs2DCfeMeTw/edit?usp=sharing)
+- "Buildbarn at Snowflake", presented by Zhimin Xiang and Richard Woodbury: [video](https://www.youtube.com/watch?v=r1abzbs3m1s) [slides](https://docs.google.com/presentation/d/1BVcy_C1Rp-lsuoIz7stCiSYrPLpWllUIrmKfMR2G8hQ/edit?usp=sharing)
+
+## 2026-10-17: Buildbarn meetup at Datadog in Amsterdam
+
+Datadog hosted the second Buildbarn meetup. Below is a list of talks
+that were given. We are still in the process of gathering slides and
+recordings of this event.
+
+- "Buildbarn at Datadog", presented by James Sharpe and Guilhem Charles
+- "The Trio: CI, Bazel, and Buildbarn", presented by Eaugene Thomas
+- "bb-storage: Making CDC a First-Class Citizen", presented by Benjamin Ingberg
+- "bb-portal in Action: An Interactive Build Analysis", presented by Isak Stenström and Oscar Falk
+- "Strategies for GPU Workers in Kubernetes", presented by Chris McDonald
+- "Buildbarn Helm Charts", presented by Jake Newfield and Cesar Vera-Bernal
+- "Using buildbarn/bb-action-router to Support User-Specified Runner Docker Images at the Action Level", presented by Marcin Kosiba
+- "Caching Analysis Data in Bonanza", presented by Ed Schouten: [slides](https://github.com/buildbarn/.github/blob/main/slides/20260613-bonanza-caching-analysis.pdf)
 
 # Presentations at other venues
 
@@ -65,7 +73,7 @@ topics in the past, including:
 - 2023-05-11 NLUUG conference: [Overview and development history](https://www.youtube.com/watch?v=2_AFPEP4Ewg)
 
 The slides of all of these talks have been combined into a
-[a single master slide deck](https://github.com/buildbarn/.github/blob/main/buildbarn-master.pdf).
+[a single master slide deck](https://github.com/buildbarn/.github/blob/main/slides/buildbarn-master.pdf).
 
 # Commercial Support
 
