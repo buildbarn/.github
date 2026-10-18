@@ -64,6 +64,10 @@ recordings of this event.
 - "Using buildbarn/bb-action-router to Support User-Specified Runner Docker Images at the Action Level", presented by Marcin Kosiba
 - "Caching Analysis Data in Bonanza", presented by Ed Schouten: [slides](https://github.com/buildbarn/.github/blob/main/slides/20260613-bonanza-caching-analysis.pdf)
 
+Furthermore, Joseph Gette has been kind enough to share
+[the 3D models of the Buildbarn swag](https://github.com/JSGette/buildbarn_swag)
+he handed out at the meetup.
+
 # Presentations at other venues
 
 The main author of Buildbarn has also given some talks about assorted
