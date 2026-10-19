@@ -60,7 +60,7 @@ recordings of this event.
 - "bb-storage: Making CDC a First-Class Citizen", presented by Benjamin Ingberg: [slides](https://github.com/buildbarn/.github/blob/main/slides/20261013-cdc.pdf)
 - "bb-portal in Action: An Interactive Build Analysis", presented by Isak Stenström and Oscar Falk: [slides](https://github.com/buildbarn/.github/blob/main/slides/20261013-bb-portal.pdf)
 - "Strategies for GPU Workers in Kubernetes", presented by Chris McDonald: [slides](https://github.com/buildbarn/.github/blob/main/slides/20261013-strategies-for-gpu-workers.pdf)
-- "Buildbarn Helm Charts", presented by Jake Newfield and Cesar Vera-Bernal
+- "Buildbarn Helm Charts", presented by Jake Newfield and Cesar Vera-Bernal: [slides](https://github.com/buildbarn/.github/blob/main/slides/20261013-helm-charts.pdf)
 - "Using buildbarn/bb-action-router to Support User-Specified Runner Docker Images at the Action Level", presented by Marcin Kosiba: [slides](https://github.com/buildbarn/.github/blob/main/slides/20261013-bb-action-router.pdf)
 - "Caching Analysis Data in Bonanza", presented by Ed Schouten: [slides](https://github.com/buildbarn/.github/blob/main/slides/20261013-bonanza-caching-analysis.pdf)
 
