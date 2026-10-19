@@ -55,14 +55,14 @@ Datadog hosted the second Buildbarn meetup. Below is a list of talks
 that were given. We are still in the process of gathering slides and
 recordings of this event.
 
-- "Buildbarn at Datadog", presented by James Sharpe and Guilhem Charles
-- "The Trio: CI, Bazel, and Buildbarn", presented by Eaugene Thomas
-- "bb-storage: Making CDC a First-Class Citizen", presented by Benjamin Ingberg
-- "bb-portal in Action: An Interactive Build Analysis", presented by Isak Stenström and Oscar Falk
-- "Strategies for GPU Workers in Kubernetes", presented by Chris McDonald
+- "Buildbarn at Datadog", presented by James Sharpe and Guilhem Charles: [slides](https://github.com/buildbarn/.github/blob/main/slides/20261013-who-let-the-builds-out.pdf)
+- "The Trio: CI, Bazel, and Buildbarn", presented by Eaugene Thomas: [slides](https://github.com/buildbarn/.github/blob/main/slides/20261013-ci-at-uber.pdf)
+- "bb-storage: Making CDC a First-Class Citizen", presented by Benjamin Ingberg: [slides](https://github.com/buildbarn/.github/blob/main/slides/20261013-cdc.pdf)
+- "bb-portal in Action: An Interactive Build Analysis", presented by Isak Stenström and Oscar Falk: [slides](https://github.com/buildbarn/.github/blob/main/slides/20261013-bb-portal.pdf)
+- "Strategies for GPU Workers in Kubernetes", presented by Chris McDonald: [slides](https://github.com/buildbarn/.github/blob/main/slides/20261013-strategies-for-gpu-workers.pdf)
 - "Buildbarn Helm Charts", presented by Jake Newfield and Cesar Vera-Bernal
-- "Using buildbarn/bb-action-router to Support User-Specified Runner Docker Images at the Action Level", presented by Marcin Kosiba
-- "Caching Analysis Data in Bonanza", presented by Ed Schouten: [slides](https://github.com/buildbarn/.github/blob/main/slides/20260613-bonanza-caching-analysis.pdf)
+- "Using buildbarn/bb-action-router to Support User-Specified Runner Docker Images at the Action Level", presented by Marcin Kosiba: [slides](https://github.com/buildbarn/.github/blob/main/slides/20261013-bb-action-router.pdf)
+- "Caching Analysis Data in Bonanza", presented by Ed Schouten: [slides](https://github.com/buildbarn/.github/blob/main/slides/20261013-bonanza-caching-analysis.pdf)
 
 Furthermore, Joseph Gette has been kind enough to share
 [the 3D models of the Buildbarn swag](https://github.com/JSGette/buildbarn_swag)
