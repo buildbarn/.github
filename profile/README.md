@@ -95,7 +95,7 @@ endorsement.
 ## Commercial Hosting and Professional Services
 
 - [Aspect Build](https://www.aspect.build/managed-buildbarn) - Self-hosted, Managed Buildbarn
-- [Hermetiq](https://www.hermetiq.com/managed-buildbarn) - Managed Buildbarn, build analytics and optimization
+- [Hermetiq](https://www.hermetiq.com/managed-buildbarn) - Managed Buildbarn, analytics and AI agents for Buildbarn and Bazel
 - [Meroton](https://www.meroton.com/services/) - Cloud Hosted Buildbarn and Services
 - [SUE - Cloud Native Solutions](https://sue.eu/services/) - Support & Services Company
 
