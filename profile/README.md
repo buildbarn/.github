@@ -58,11 +58,12 @@ recordings of this event.
 - "Buildbarn at Datadog", presented by James Sharpe and Guilhem Charles: [video](https://www.youtube.com/watch?v=3OVVaWG5g8M) [slides](https://github.com/buildbarn/.github/blob/main/slides/20261013-who-let-the-builds-out.pdf)
 - "The Trio: CI, Bazel, and Buildbarn", presented by Eaugene Thomas: [video](https://www.youtube.com/watch?v=79fUuwpNXiA) [slides](https://github.com/buildbarn/.github/blob/main/slides/20261013-ci-at-uber.pdf)
 - "bb-storage: Making CDC a First-Class Citizen", presented by Benjamin Ingberg: [video](https://www.youtube.com/watch?v=40ea64RLrvY) [slides](https://github.com/buildbarn/.github/blob/main/slides/20261013-cdc.pdf)
-- "bb-portal in Action: An Interactive Build Analysis", presented by Isak Stenström and Oscar Falk: [slides](https://github.com/buildbarn/.github/blob/main/slides/20261013-bb-portal.pdf)
-- "Strategies for GPU Workers in Kubernetes", presented by Chris McDonald: [slides](https://github.com/buildbarn/.github/blob/main/slides/20261013-strategies-for-gpu-workers.pdf)
+- "bb-portal in Action: An Interactive Build Analysis", presented by Isak Stenström and Oscar Falk: [video](https://www.youtube.com/watch?v=iwF4CZIj7E8) [slides](https://github.com/buildbarn/.github/blob/main/slides/20261013-bb-portal.pdf)
+- "Strategies for GPU Workers in Kubernetes", presented by Chris McDonald: [video](https://www.youtube.com/watch?v=XAmzORRdFUQ) [slides](https://github.com/buildbarn/.github/blob/main/slides/20261013-strategies-for-gpu-workers.pdf)
 - "Buildbarn Helm Charts", presented by Jake Newfield and Cesar Vera-Bernal: [slides](https://github.com/buildbarn/.github/blob/main/slides/20261013-helm-charts.pdf)
-- "Using buildbarn/bb-action-router to Support User-Specified Runner Docker Images at the Action Level", presented by Marcin Kosiba: [slides](https://github.com/buildbarn/.github/blob/main/slides/20261013-bb-action-router.pdf)
+- "Using buildbarn/bb-action-router to Support User-Specified Runner Docker Images at the Action Level", presented by Marcin Kosiba: [video](https://www.youtube.com/watch?v=R0Bo5hZQgGU) [slides](https://github.com/buildbarn/.github/blob/main/slides/20261013-bb-action-router.pdf)
 - "Caching Analysis Data in Bonanza", presented by Ed Schouten: [video](https://www.youtube.com/watch?v=KekFOq_PZzc) [slides](https://github.com/buildbarn/.github/blob/main/slides/20261013-bonanza-caching-analysis.pdf)
+- Panel discussion: [video](https://www.youtube.com/watch?v=wiEY1p-VAvE)
 
 Furthermore, Joseph Gette has been kind enough to share
 [the 3D models of the Buildbarn swag](https://github.com/JSGette/buildbarn_swag)
